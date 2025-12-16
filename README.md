@@ -96,7 +96,9 @@ MIT License
 ## Author
 
 GitHub: https://github.com/meter-silo
+
 Public contact (email): meter_silo.0l@icloud.com
+
 Public contact (X): https://x.com/gerasimovdimas2
 
 ---
